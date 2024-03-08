@@ -1,0 +1,8 @@
+.btn{
+  width: 200rpx;
+  height: 200rpx;
+  font-size: 15px;
+  position: fixed;
+  bottom: 300rpx;
+  z-index: 9999999;
+}
